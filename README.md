@@ -1,4 +1,4 @@
-# CalcDash (Coursework Project)
+# CalcDash
 
 **CalcDash** is a mobile app for training fast mental arithmetic.
 It includes multiple game modes, timed challenges, and account-based progress.
