@@ -6,6 +6,7 @@ This project is intentionally built like a “real product” (not a toy snippet
 
 <p align="center">
   <img src="images/image-app.png" width="420" alt="image-app" />
+  
   <img src="images/image-marathon.png" width="420" alt="image-marathon" />
 </p>
 
