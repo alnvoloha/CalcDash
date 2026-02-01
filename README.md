@@ -4,6 +4,11 @@ A full‑stack web app for training fast mental arithmetic: **login/registration
 
 This project is intentionally built like a “real product” (not a toy snippet): a secured backend API, a separate frontend client, persistent storage, and a clear feature roadmap.
 
+<p align="center">
+  <img src="images/image-app.png" width="420" alt="image-app" />
+  <img src="images/image-marathon.png" width="420" alt="image-marathon" />
+</p>
+
 ---
 
 ## Why this project matters (for an employer)
